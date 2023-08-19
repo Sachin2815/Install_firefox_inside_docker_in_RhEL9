@@ -10,4 +10,6 @@ In local system pull docker image
 #docker pull sachin5858/newos:v1
 
 
-in local system rub the command : docker run -it --rm --net=host --env="DISPLAY" --volume="$HOME/.Xauthority:/root/.Xuthority:rw" imagename step4 : use anywhere to launch the firefox.
+in local system rub the command : docker run -it --rm --net=host --env="DISPLAY" --volume="$HOME/.Xauthority:/root/.Xuthority:rw" imagename 
+
+step4 : use anywhere to launch the firefox.
